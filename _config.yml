@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bitterloa.github.io
+title: My Tech Blog
+tagline: Code and opinionated opinions about it, you know the deal.
+description: Hopefully this will help others
+paginate: 5
