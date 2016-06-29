@@ -10,8 +10,8 @@ Here is a [working example of the code](http://plnkr.co/edit/nHSIsciSZNTQzQjxkXs
 
 Also see this document showing the [newest ways to use forms in Angular 2rc3](https://docs.google.com/document/u/1/d/1RIezQqE4aEhBRmArIAS1mRIZtWFf6JxN_7B4meyWK0Y/pub).
 
-```typescript
-    import { Component } from '@angular/core';
+```javascript
+import { Component } from '@angular/core';
 import {REACTIVE_FORM_DIRECTIVES, FormControl, FormGroup, FormArray} from '@angular/forms';
 
 @Component({
